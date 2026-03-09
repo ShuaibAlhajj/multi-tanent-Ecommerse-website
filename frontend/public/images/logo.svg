@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" fill="none">
+  <rect width="480" height="180" rx="30" fill="#0F172A"/>
+  <circle cx="72" cy="90" r="34" fill="#0F766E"/>
+  <path d="M56 90H88" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round"/>
+  <path d="M72 74L72 106" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round"/>
+  <text x="130" y="101" fill="#F8FAFC" font-size="42" font-family="Segoe UI, Arial" font-weight="700">Northstar Commerce</text>
+</svg>

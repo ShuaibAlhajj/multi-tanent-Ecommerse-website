@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" rx="42" fill="#F8FAFC"/>
+  <circle cx="1020" cy="120" r="130" fill="#CCFBF1"/>
+  <circle cx="170" cy="660" r="190" fill="#FEF3C7"/>
+  <rect x="120" y="120" width="960" height="520" rx="30" fill="white" stroke="#E2E8F0"/>
+  <rect x="170" y="180" width="290" height="390" rx="20" fill="#ECFEFF" stroke="#A5F3FC"/>
+  <rect x="500" y="180" width="530" height="90" rx="14" fill="#F1F5F9"/>
+  <rect x="500" y="300" width="530" height="90" rx="14" fill="#F1F5F9"/>
+  <rect x="500" y="420" width="370" height="90" rx="14" fill="#F1F5F9"/>
+  <rect x="900" y="420" width="130" height="90" rx="14" fill="#0F766E"/>
+  <text x="960" y="478" text-anchor="middle" fill="white" font-size="38" font-family="Segoe UI, Arial" font-weight="700">Buy</text>
+  <text x="170" y="95" fill="#0F172A" font-size="36" font-family="Segoe UI, Arial" font-weight="700">Tenant-Aware Storefront</text>
+</svg>

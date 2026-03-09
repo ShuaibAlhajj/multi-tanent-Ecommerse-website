@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" fill="none">
+  <rect width="800" height="620" rx="24" fill="#FFF7ED"/>
+  <rect x="80" y="90" width="640" height="420" rx="28" fill="#FED7AA"/>
+  <circle cx="230" cy="225" r="58" fill="#F97316"/>
+  <rect x="340" y="190" width="320" height="80" rx="12" fill="#FB923C"/>
+  <rect x="340" y="300" width="220" height="70" rx="12" fill="#FDBA74"/>
+  <text x="400" y="565" text-anchor="middle" fill="#C2410C" font-size="44" font-family="Segoe UI, Arial" font-weight="700">Product Two</text>
+</svg>
