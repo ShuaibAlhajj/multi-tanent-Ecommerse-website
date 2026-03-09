@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Tenant Ecommerce Platform
 
 Production-oriented local monorepo using Django + DRF + MySQL backend and Next.js + TypeScript + Tailwind frontend.
@@ -213,3 +214,6 @@ frontend/
   src/layouts/
   src/styles/
 ```
+=======
+# multi-tanent-Ecommerse-website
+>>>>>>> f985e29c5e30be0aa6e1540f5cbc42c3ec3ab507
